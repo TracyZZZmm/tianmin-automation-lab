@@ -1,0 +1,11 @@
+intent,system,reason,duration_days,priority,SLA_Breached
+Risk Exception,Payments,False positive,30,P2,Yes
+Risk Exception,Ads,Vendor API incompatibility,14,P2,No
+Data Access,DataLake,To be completed,7,P3,No
+Data Access,S3,Debugging log,14,P2,No
+Risk Exception,Payments,False positive,30,P2,Yes
+Data Access,DataLake,To be completed,14,P2,No
+Data Access,DataLake,To be completed,14,P2,No
+Risk Exception,Payments,False positive,15,P2,Yes
+Risk Exception,Auth,rollout deadline,14,P1,No
+Risk Exception,Payments,To be completed,7,P1,No
