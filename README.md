@@ -1,10 +1,3 @@
-License
-This project is licensed under the GNU AGPLv3 license.
-You can use, modify, and redistribute the code.
-If you run this project as a network-accessible service (SaaS, API, internal tool), you must release your modified source code.
-Closed-source or proprietary use as a hosted service is not permitted.
-For the full license text, see the LICENSE file.
-
 # 🌐 Tianmin Zhang – Security Automation Portfolio
 
 This repository demonstrates **end-to-end automation workflows** for security and compliance operations — connecting **Slack**, **Jira Service Management**, **Google Apps Script**, **Looker Studio**, and **Hugging Face API**.  
@@ -113,8 +106,17 @@ This portfolio reflects my transition from **KYC Investigation (Amazon Ireland)*
 
 ---
 
-## 📜 License
-This project is licensed under the [MIT License](./LICENSE).
+## License
+
+This project is licensed under the **GNU AGPLv3** license.
+
+- You can use, modify, and redistribute the code.
+- If you run this project as a network-accessible service (SaaS, API, internal tool), 
+  you must release your modified source code under the same license.
+- Closed-source hosted service use is not allowed.
+
+See the `LICENSE` file for details.
+
 
 ---
 
